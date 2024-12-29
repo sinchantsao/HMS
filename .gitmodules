@@ -1,0 +1,3 @@
+[submodule "front/vue-vben-admin"]
+	path = front/vue-vben-admin
+	url = https://github.com/vbenjs/vue-vben-admin.git
